@@ -7,4 +7,4 @@ Controls:
 3. left arrow key for left direction.
 4. right arrow key for right direction.
 
-This game is fully functional. PlAY AND ENJOY.
+This game is built using Java Swing and is fully functional. PlAY AND ENJOY.
